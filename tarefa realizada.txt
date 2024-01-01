@@ -1,0 +1,28 @@
+		float media;
+		float n2;
+		float n1;
+		String nome;
+		int idade;
+		float altura;
+		
+		
+		n1 = 8.9f;
+		n2 = 6.7f;
+		media = n1 + n2 % 2;
+				
+		nome = "Daniel";
+		idade = 18;
+		altura = 1.80f;
+		
+		
+		System.out.println (" Nome " +nome);
+		System.out.println (" Idade " +idade);
+		System.out.println (" Altura " +altura);
+		
+		System.out.println (" Nota 1 " + n1);
+		System.out.println (" Nota 2 " + n2);
+		System.out.println (" MEDIA " + media);
+		
+	}
+
+}
